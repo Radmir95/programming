@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/Radmir/Dropbox/workspace/programming/JAXB/people.xsd">
+	<person id="1">
+		<name>Ivan</name>
+	</person>
+	<person id="2">
+		<name>Nikolay</name>
+	</person>
+	<person id="3">
+		<name>David</name>
+	</person>
+	<person id="4">
+		<name>Michele</name>
+	</person>
+	<person id="5">
+		<name>Katya</name>
+	</person>
+</people>

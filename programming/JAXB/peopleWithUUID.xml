@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/Radmir/Dropbox/workspace/programming/JAXB/peopleWithUUID.xsd">
+	<person id="1">
+		<UUID>0x00000000000000FF</UUID>
+		<name>Ivan</name>
+	</person>
+	<person id="2">
+		<UUID>0x000000000FF000F</UUID>
+		<name>Nikolay</name>
+	</person>
+	<person id="3">
+		<UUID>0x00000000FFF000F</UUID>
+		<name>David</name>
+	</person>
+	<person id="4">
+		<UUID>0x0000FF000FF000F</UUID>
+		<name>Michele</name>
+	</person>
+	<person id="5">
+		<UUID>0x00000F0000F000F</UUID>
+		<name>Katya</name>
+	</person>
+</people>
